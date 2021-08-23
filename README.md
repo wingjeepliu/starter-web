@@ -11,3 +11,6 @@ Sample website with plenty of files for demos
 
 ## Deployment
 Deploy in the in the
+
+## Copyright
+2022
