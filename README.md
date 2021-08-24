@@ -7,6 +7,7 @@ This is example is to show diff
 
 ## Purpose
 This is for brasing example
+more change from my feature
 
 Sample website with plenty of files for demos
 
